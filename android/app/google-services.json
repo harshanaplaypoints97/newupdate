@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "507075293875",
+    "firebase_url": "https://playpointz-default-rtdb.firebaseio.com",
+    "project_id": "playpointz",
+    "storage_bucket": "playpointz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507075293875:android:773941bca7654bb571b6c6",
+        "android_client_info": {
+          "package_name": "com.avanux.playpointz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507075293875-mp37th5gekka5ei54eu6qatsu8fo4fm0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.avanux.playpointz",
+            "certificate_hash": "6c5304934ecca59f6ac06b8fb49cb556ab2df6ec"
+          }
+        },
+        {
+          "client_id": "507075293875-3rc80sbag4oipdhfd1leon5r4833g6gv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgqjPFXNK1BqIBobrwkzTCTnpJoz0Nc2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507075293875-3rc80sbag4oipdhfd1leon5r4833g6gv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "507075293875-3f4skijcbm1lp3l79nqtvt33ce00b81p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.playpointz",
+                "app_store_id": "6446279381"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
